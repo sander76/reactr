@@ -3,7 +3,7 @@ import gc
 from unittest.mock import Mock
 
 import pytest
-from reactr.async_pub_sub import Reactr, ReactrModel
+from reactr.reactr import Reactr, ReactrModel
 
 
 class Model(ReactrModel):

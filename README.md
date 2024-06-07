@@ -1,3 +1,10 @@
 # reactr
 
-Describe your project here.
+Reactive classes.
+See tests folder for examples.
+
+## development
+
+This project uses rye.
+
+https://rye.astral.sh/
